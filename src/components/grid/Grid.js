@@ -40,7 +40,7 @@ class detailsList extends Component {
     const { items } = this.state;
     return (
       <div className='mainContainer'>
-        <label>Gridview Data</label>
+        <label>Grid View Data</label>
         <DetailsList
           items={items}
           columns={columns}
