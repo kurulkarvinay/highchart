@@ -1,0 +1,8 @@
+.mainContainer {
+  width: 100%;
+}
+
+span {
+  width: 50%;
+  display: inline-block;
+}
